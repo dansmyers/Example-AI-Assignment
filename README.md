@@ -1,13 +1,8 @@
 # An Example AI-Assisted Writing Assignment
 
+*This is a draft assignment that I’m preparing for Spring 2024’s HON 350—Ancient Algorithms. The course presents a survey of topics related to computation, mathematics, and technology from across the ancient world.*
 
-
-This is a draft assignment that I’m preparing for Spring 2024’s HON 350—Ancient Algorithms. The course presents a survey of topics related to computation, mathematics, and technology from across the ancient world. 
-
-The assignment is a medium-length research article on an aspect of ancient math or technology chosen by the student, broken up into five phases. It requires students to develop a topic idea, research it, develop a thesis, and then produce a written document.
-
-I plan to space this work out during the semester, with one phase due approximately every two weeks.
-
+*The assignment is a medium-length research article on an aspect of ancient math or technology chosen by the student, broken up into five phases. It requires students to develop a topic idea, research it, develop a thesis, and then produce a written document. I plan to space this work out during the semester, with one phase due approximately every two weeks.*
 
 ## Overview
 
