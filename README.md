@@ -151,7 +151,7 @@ At the end of this process, you should have 4-5 promising sources relevant to yo
 
 Carefully read your articles. This will take some time. For each one—by yourself, without an AI tool—write a list of the key points it makes related to your topic. What arguments does it make or what factual evidence does it supply? How does its content relate to your topic?
 
-Tip: because you have already done the work of refining your topic and creating a research plan, you should have a general sense of what kinds of information is useful for your paper.
+Tip: Because you have already done the work of refining your topic and creating a research plan, you should have a general sense of what kind of information is useful for your paper.
 
 Once you have prepared your bulleted summaries, use an AI model to convert your summaries into paragraphs. If your articles are in PDF files, you can upload them to Claude and then ask it to produce a summary of the article following your guidelines.
 
