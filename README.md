@@ -208,12 +208,11 @@ Refine the structural outline based on the AI feedback. As before, enter the sta
 
 You’re now going to create a detailed outline that bridges the gap between your high-level structural outline and the actual draft you’ll write in the next phase. Use the following prompt:
 
-*I have created a structural outline for my research paper:
+*I have created a structural outline for my research paper:*
 
-[Outline]
+*[Outline]*
 
-
-Please take this structural outline and expand it into a detailed paragraph-level outline. Indicate places in the detailed outline that should be supported by relevant evidence, quotes, or citations.*
+*Please take this structural outline and expand it into a detailed paragraph-level outline. Indicate places in the detailed outline that should be supported by relevant evidence, quotes, or citations.*
 
 Record the detailed outline in your logbook.
 
