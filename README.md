@@ -285,7 +285,7 @@ Prompt the AI to act as your coach and use it to have a reflective conversation.
 - *How did I balance integrating AI input with maintaining my own perspective and voice?*
 - *What criteria did I use to evaluate the AI's suggestions and determine what to incorporate or reject?*
 - *How has this experience shaped my views on using AI tools ethically and effectively in research and writing moving forward?*
-- *What advice would I give peers about getting the most out of AI tools while avoiding potential pitfalls?"
+- *What advice would I give peers about getting the most out of AI tools while avoiding potential pitfalls?*
 *You can prompt me with follow-up questions and prompts to push my reflection deeper. The goal is to synthesize my learnings and think critically about integrating AI thoughtfully. Please act as my coach guiding me through this reflective discussion.*
 
 
