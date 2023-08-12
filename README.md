@@ -149,7 +149,7 @@ At the end of this process, you should have 4-5 promising sources relevant to yo
 
 ### Summarize your sources
 
-Carefully read your articles. This will take some time. For each one—by yourself—write a list of the key points it makes related to your topic. What arguments does it make or what factual evidence does it supply? How does its content relate to your topic?
+Carefully read your articles. This will take some time. For each one—by yourself, without an AI tool—write a list of the key points it makes related to your topic. What arguments does it make or what factual evidence does it supply? How does its content relate to your topic?
 
 Tip: because you have already done the work of refining your topic and creating a research plan, you should have a general sense of what kinds of information is useful for your paper.
 
