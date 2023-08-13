@@ -119,8 +119,6 @@ The log serves two purposes:
 
 *Buildings could look much cooler than they do by Reddit user u/Grizzluza*
 
-</br>
-
 ### Generating topic ideas
 
 To begin, you will use an AI tool to help generate some initial topic ideas that you can choose from for your research paper. The goal here is to get your creative juices flowing—the AI will suggest a wide range of possibilities to consider.
@@ -176,8 +174,6 @@ At the end of this phase, you’ll submit:
 
 *Boring American photorealism by Reddit user u/KudzuEye*
 
-</br>
-
 ### Find relevant sources
 
 Use academic search engines and databases to find four relevant scholarly sources on your topic, following the research plan developed in Phase 1.
@@ -227,8 +223,6 @@ Submit the annotated bibliography and logbook showing your process and reflectio
 <img src="https://preview.redd.it/realistic-retro-ghibli-pok%C3%A9mon-v0-lfch73xa54hb1.jpg?width=1024&format=pjpg&auto=webp&s=28b5630df52dbd1cbdc80cff33c47200e7db21ef" width="50%" />
 
 *Realistic retro Ghibli Pokémon by Reddit user u/smoley*
-
-</br>
 
 ### Brainstorming
 
@@ -281,9 +275,7 @@ Submit a document containing your thesis statement and detailed outline as the d
 
 <img src="https://preview.redd.it/retrofuturic-japan-in-space-v0-c959phw7njhb1.jpg?width=1024&format=pjpg&auto=webp&s=0fac8a542793a384b07747e7811dc698862b938f" width="50%" />
 
-*Retrofuturistic by Reddit user u/jedzsol*
-
-</br>
+*Retrofuturistic Japan in space by Reddit user u/jedzsol*
 
 ### Create the rough draft
 
@@ -329,6 +321,10 @@ Submit your final revised draft and logbook and the deliverable for this phase. 
 
 
 ## Phase 5: Finalization and Reflection
+
+<img src="https://preview.redd.it/freddie-mercury-performs-at-the-2023-san-francisco-pride-v0-ye3gznympz4b1.png?width=1024&format=png&auto=webp&s=ad6293772c017d41d815359eb9710b1884d6ea4c" width="50%" />
+
+*Freddie Mercury performing at the 2023 San Francisco Pride parade by Reddit user u/Legitimate-Room-1905*
 
 ### Final edits
 
