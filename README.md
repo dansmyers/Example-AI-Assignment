@@ -260,6 +260,10 @@ Submit a document containing your thesis statement and detailed outline as the d
 
 ## Phase 4: Drafting and Revision
 
+<img src="https://preview.redd.it/what-happens-when-you-mix-ancient-egypt-with-cyberpunk-v0-7uc8cybcrs2a1.jpg?width=1080&crop=smart&auto=webp&s=95ba5ef1f3febb8b72cb85e13ceaca5fab8194f2" width="50%" />
+
+*What happens when you mix ancient Egypt with cyperpunk? by Reddit user u/ThunderBR2*
+
 
 ### Create the rough draft
 
