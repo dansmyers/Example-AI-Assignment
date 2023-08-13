@@ -81,6 +81,11 @@ The log serves two purposes:
 
 ## General AI Tips
 
+<img src="https://preview.redd.it/real-estate-photos-of-real-barbie-dream-house-v0-kgmqs9zpmxcb1.png?width=1312&format=png&auto=webp&s=afe9626b302d977aadd36ba6cae381ed54fdbf17" width="50%" />
+
+*Real estate photos of the real Barbie Dream House by Reddit user u/InkSlinger1983*
+
+
 - Carefully craft your inputs—generic prompts get generic results. Ask focused questions.
 
 - AI models can easily hallucinate information, including facts, references, and dates. Don’t trust the output of a model unless you know it’s true or can verify it with a reliable third-party source. AI works best on topics you know well. You still need to do independent research!
