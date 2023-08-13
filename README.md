@@ -92,16 +92,18 @@ The log serves two purposes:
 
 - Balance AI assistance with doing your own analysis and using your own voice. Maintain agency over your work!
 
-- Use the right tool for each task. I recommend using either Bing AI or Claude as your main model. Remember that Bing can access the Internet, but sometimes a conventional search engine is a better choice.
+- Use the right tool for each task. I recommend using either Bing AI or Claude as your main model: both are better than the free version of ChatGPT at this point. Remember that Bing can access the Internet, but sometimes a conventional search engine is a better choice.
 
 - Remember that AI has limitations and biases. Do not assume AI output is factual or neutral. Validate against credible sources.
-
-- Pay attention to how the AI responds to questions about marginalized groups, identities, or perspectives. Push back on problematic responses.
 
 - Consider the ethical implications of relying on AI for various tasks. Reflect on when human effort is still essential.
 
 
 ## Phase 1: Topic Generation and Research Planning
+
+<img src="https://preview.redd.it/as-with-concept-cars-buildings-could-look-much-cooler-than-v0-ddjbctxqjkdb1.png?width=1024&format=png&auto=webp&s=48f1ec01e162656bcd2f5fd7b0c5b3596310a047" width="50%" />
+
+*Buildings could look much cooler than they do by Reddit user u/Grizzluza*
 
 ### Generating topic ideas
 
