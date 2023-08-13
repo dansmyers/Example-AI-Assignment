@@ -70,7 +70,7 @@ This is intentionally broad. I want you to explore your own interests and bring 
 
 - You don’t have to choose a physical thing. You can write about a mathematical result, or a theory, book, or intellectual movement.
 
-- Choose a topic that’s at least pre-1900, and preferably pre-1800. It’s okay to bring in connections from the modern world, as appropriate, but don’t simply choose an early version of a well-known modern technology.
+- Choose a topic that’s preferably pre-1800. It’s okay to bring in connections from the modern world when they're appropriate, but we'd prefer to focus on older historical innovations, not just the development of well-known industrial-era technologies.
 
 
 ## Process
