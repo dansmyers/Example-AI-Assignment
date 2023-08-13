@@ -94,9 +94,9 @@ The log serves two purposes:
 
 ## General AI Tips
 
-<img src="https://preview.redd.it/real-estate-photos-of-real-barbie-dream-house-v0-kgmqs9zpmxcb1.png?width=1312&format=png&auto=webp&s=afe9626b302d977aadd36ba6cae381ed54fdbf17" width="50%" />
+<img src="https://storage.googleapis.com/pai-images/23ed6881333d496f92384c2e3e22fcc7.jpeg" width="50%" />
 
-*Real estate photos of the real Barbie Dream House by Reddit user u/InkSlinger1983*
+*Residential street in the solarpunk city of the future by me*
 
 </br>
 
