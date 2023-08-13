@@ -8,7 +8,7 @@
 
 This is a draft assignment that I’m preparing for my upcoming "Ancient Algorithms" honors course. The course presents a survey of topics related to computation, mathematics, and technology from across the ancient world.
 
-The assignment is a medium-length research article on an aspect of ancient math or technology chosen by the student. It requires the student to develop a topic idea, research it, formulate a thesis, and then produce a written document. The overaching goal is for students to use AI in a reflective way and express their own vision more effectively, but without losing agency.
+The assignment is a medium-length research article on an aspect of ancient math or technology chosen by the student. It requires the student to develop a topic idea, research it, formulate a thesis, and then produce a written document. The overaching goal is for students to practice using AI tools in a reflective way, and support their own vision without giving up agency.
 
 The assignment is laid out in five phases, covering the entire process of topic generation, background research, outlining, drafting and editing. For each phase, I supply example prompts that students can use to interact with an AI tool.  I plan to space this work out during the semester, with one phase due approximately every two weeks. This draft doesn't include dates, but I would add them for the final assignment.
 
