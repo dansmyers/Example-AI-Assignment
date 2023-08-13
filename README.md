@@ -25,6 +25,12 @@ Note that, while I expect you to use AI to complete this assignment, some parts 
 
 ## Goals
 
+
+<img src="https://preview.redd.it/tlzm7apmvbna1.png?width=1568&format=png&auto=webp&v=enabled&s=d33f7e85158543900699450e8b5a2d1f125de775" width="50%" />
+
+*Edward Hopper's 'Bored Women Looking at Their Smartphones' by Reddit user u/uriba*
+
+
 The overall goal of this assignment is for you to practice using AI in a moderate-length research-based essay. In addition to developing a deeper understanding of your research topic, you will also:
 
 - **Understand the strengths and weaknesses of AI**. Language models are powerful, but aren’t good at everything. You should have a nuanced understanding of the strengths and weaknesses of AI and know how to choose the right tool for a particular task, which includes choosing between different AI tools (for example, Bing AI vs. Claude) and knowing when a search engine is a better choice than an AI.
@@ -40,6 +46,10 @@ The overall goal of this assignment is for you to practice using AI in a moderat
 
 
 ## Choosing a Topic
+
+<img src="[https://www.reddit.com/r/midjourney/comments/153ww1b/real_estate_photos_of_real_barbie_dream_house/](https://preview.redd.it/real-estate-photos-of-real-barbie-dream-house-v0-ut5rm8zpmxcb1.png?width=1312&format=png&auto=webp&s=23c20ec3251342abb2b33a22508bba3c88512974)" width="50%"/>
+
+*Real estate photos of the real Barbie Dream House by Reddit user u/InkSlinger1983*
 
 Identify some historical innovation related to computation, math, technology, or a related area and write about why it was significant at the time of its creation and why it still matters to the modern world.
 
