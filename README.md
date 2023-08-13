@@ -47,9 +47,9 @@ The overall goal of this assignment is for you to practice using AI in a moderat
 
 ## Choosing a Topic
 
-<img src="https://www.reddit.com/r/midjourney/comments/15oxqkw/the_house_at_the_end_of_the_road/?utm_source=share&utm_medium=mweb3x&utm_name=post_embed&utm_term=1&utm_content=1" width="50%"/>
+<img src="https://preview.redd.it/h075t1e1r4oa1.png?width=640&crop=smart&auto=webp&v=enabled&s=15aa172e21a76cd0abe14d4cfef9f17c036a16f6" width="50%" />
 
-*Real estate photos of the real Barbie Dream House by Reddit user u/InkSlinger1983*
+*Your favorite 90s rap group with their cats by Reddit user u/Drolevarg*
 
 Identify some historical innovation related to computation, math, technology, or a related area and write about why it was significant at the time of its creation and why it still matters to the modern world.
 
