@@ -240,7 +240,7 @@ Based on your topic exploration so far, draft 1-2 potential thesis statements th
 
 In your logbook, reflect on what makes an effective thesis statement.
 
-Prompt the AI: #Please provide feedback on my draft thesis statements for my paper on [topic]. Suggest ways to improve clarity, focus, and compellingness*.
+Prompt the AI: *Please provide feedback on my draft thesis statements for my paper on [topic]. Suggest ways to improve clarity, focus, and compellingness*.
 
 Refine your thesis based on the AI feedback. Record iterations in your logbook.
 
