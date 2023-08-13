@@ -10,6 +10,10 @@ This framework is based on lessons I learned in my Spring 2023 general education
 
 ## Overview
 
+<img src="https://preview.redd.it/lzc27bpxqapa1.jpg?width=640&crop=smart&auto=webp&v=enabled&s=5f4bbfa5e26c3474e81e6c513aad03da6f359348" width="50%"/>
+
+*Snoop Dogg in classic TV series by Reddit user u/Larry-fine-wine*
+
 This course is about the development of computation, mathematics, and technology in the ancient world.
 
 In this, our major research project, you’re going to choose one particular historical innovation and write about why it’s important. This could be a new technology, a tool, a theorem, a computational method, or something else related to the broad themes of the course; I’ll give you some suggestions for choosing a topic below.
