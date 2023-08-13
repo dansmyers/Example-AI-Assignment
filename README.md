@@ -4,6 +4,10 @@
 
 *Nike x Van Gogh sneaker collab by Ethan Mollick using Midjourney.*
 
+<img src="https://storage.googleapis.com/pai-images/9fde941edf2a4bc3accb801d848cbdcd.jpeg" width="50%" />
+
+*Steampunk airship by me using Playground AI*
+
 </br>
 
 This is a draft assignment that I’m preparing for my upcoming "Ancient Algorithms" honors course. The course presents a survey of topics related to computation, mathematics, and technology from across the ancient world.
