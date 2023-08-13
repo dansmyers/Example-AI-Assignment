@@ -56,9 +56,9 @@ The overall goal of this assignment is for you to practice using AI in a moderat
 
 ## Choosing a Topic
 
-<img src="https://storage.googleapis.com/pai-images/ff3a5070c88d4c3d948d8434fc6ee2c3.jpeg" width="50%" />
+<img src="https://pbs.twimg.com/media/FqGkr4JWYAIlout?format=jpg&name=medium" width="50%" />
 
-*High desert retrofuturism by me using Playground AI*
+*American presidents, but they're all cool and they all sport a mullet by Cam Harless*
 
 </br>
 
