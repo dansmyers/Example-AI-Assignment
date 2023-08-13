@@ -56,9 +56,9 @@ The overall goal of this assignment is for you to practice using AI in a moderat
 
 ## Choosing a Topic
 
-<img src="https://preview.redd.it/imagining-jimi-hendrixs-career-had-he-lived-v0-tchqhain381b1.png?width=1024&format=png&auto=webp&s=44c0c4160817ff182a87ade89d2cba10ab9fc92e" width="50%" />
+<img src="https://storage.googleapis.com/pai-images/ff3a5070c88d4c3d948d8434fc6ee2c3.jpeg" width="50%" />
 
-*Jimi Hendrix shooting a music video for MTV in 1982 by Reddit user U/MitchThunder*
+*High desert retrofuturism by me using Playground AI*
 
 </br>
 
