@@ -1,5 +1,9 @@
 # An Example AI-Assisted Writing Assignment
 
+<img src="https://pbs.twimg.com/media/FrbBE0YWAAIxxa6?format=jpg&name=medium" width="50%" />
+
+*Nike x Van Gogh sneaker collab. Made by Ethan Mollick using Midjourney.*
+
 This is a draft assignment that I’m preparing for my upcoming "Ancient Algorithms" honors course. The course presents a survey of topics related to computation, mathematics, and technology from across the ancient world.
 
 The assignment is a medium-length research article on an aspect of ancient math or technology chosen by the student, broken up into five phases. It requires students to develop a topic idea, research it, develop a thesis, and then produce a written document. The overaching goal is for students to use AI in a reflective way and express their own vision more effectively, but without losing agency.
