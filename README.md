@@ -47,9 +47,9 @@ The overall goal of this assignment is for you to practice using AI in a moderat
 
 ## Choosing a Topic
 
-<img src="https://preview.redd.it/h075t1e1r4oa1.png?width=640&crop=smart&auto=webp&v=enabled&s=15aa172e21a76cd0abe14d4cfef9f17c036a16f6" width="50%" />
+<img src="https://preview.redd.it/imagining-jimi-hendrixs-career-had-he-lived-v0-tchqhain381b1.png?width=1024&format=png&auto=webp&s=44c0c4160817ff182a87ade89d2cba10ab9fc92e" width="50%" />
 
-*Your favorite 90s rap group with their cats by Reddit user u/Drolevarg*
+*Jimi Hendrix shooting a music video for MTV in 1982 by Reddit user U/MitchThunder*
 
 Identify some historical innovation related to computation, math, technology, or a related area and write about why it was significant at the time of its creation and why it still matters to the modern world.
 
