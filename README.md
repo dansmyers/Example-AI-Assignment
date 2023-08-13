@@ -1,9 +1,5 @@
 # An Example AI-Assisted Writing Assignment
 
-<img src="https://pbs.twimg.com/media/FrbBE0YWAAIxxa6?format=jpg&name=medium" width="50%" />
-
-*Nike x Van Gogh sneaker collab by Ethan Mollick using Midjourney.*
-
 <img src="https://storage.googleapis.com/pai-images/9fde941edf2a4bc3accb801d848cbdcd.jpeg" width="50%" />
 
 *Steampunk airship by me using Playground AI*
@@ -174,9 +170,9 @@ At the end of this phase, you’ll submit:
 
 ## Phase 2: Detailed Research and Annotated Bibliography
 
-<img src="https://preview.redd.it/boring-america-photorealism-v0-s12isxnpeqdb1.png?width=1080&crop=smart&auto=webp&s=943987824cba74776550b836bc9b424e3a9553b8" width="50%" />
+<img src="https://pbs.twimg.com/media/FrbBE0YWAAIxxa6?format=jpg&name=medium" width="50%" />
 
-*Boring American photorealism by Reddit user u/KudzuEye*
+*Nike x Van Gogh sneaker collab by Ethan Mollick using Midjourney.*
 
 ### Find relevant sources
 
