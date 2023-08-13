@@ -20,6 +20,8 @@ This framework is based on lessons I learned in my Spring 2023 general education
 
 *Snoop Dogg in classic TV series by Reddit user u/Larry-fine-wine*
 
+</br>
+
 This course is about the development of computation, mathematics, and technology in the ancient world.
 
 In this, our major research project, you’re going to choose one particular historical innovation and write about why it’s important. This could be a new technology, a tool, a theorem, a computational method, or something else related to the broad themes of the course; I’ll give you some suggestions for choosing a topic below.
@@ -36,6 +38,7 @@ Note that, while I expect you to use AI to complete this assignment, some parts 
 
 *Edward Hopper's 'Bored Women Looking at Their Smartphones' by Reddit user u/uriba*
 
+</br>
 
 The overall goal of this assignment is for you to practice using AI in a moderate-length research-based essay. In addition to developing a deeper understanding of your research topic, you will also:
 
@@ -57,6 +60,8 @@ The overall goal of this assignment is for you to practice using AI in a moderat
 
 *Jimi Hendrix shooting a music video for MTV in 1982 by Reddit user U/MitchThunder*
 
+</br>
+
 Identify some historical innovation related to computation, math, technology, or a related area and write about why it was significant at the time of its creation and why it still matters to the modern world.
 
 This is intentionally broad. I want you to explore your own interests and bring in ideas from your other classes. Here are some flexible guidelines to think about when choosing your topic:
@@ -73,6 +78,8 @@ This is intentionally broad. I want you to explore your own interests and bring 
 <img src="https://preview.redd.it/harry-potter-was-just-a-mediocre-tv-show-back-in-the-90s-v0-0c3hgsuuff3b1.png?width=1232&format=png&auto=webp&s=48e2d99eee8c37533f3b90e843b06d47cf1b84d4" width="50%" />
 
 *Harry Potter was just a mediocre TV show back in the 90s by Reddit user u/reddimatz*
+
+</br>
 
 This assignment is broken up into five phases, described in detail below. Each phase has a particular deliverable that you’ll submit. Read each phase carefully, because I will give you specific steps and prompts to use with AI tools for each part.
 
@@ -91,6 +98,7 @@ The log serves two purposes:
 
 *Real estate photos of the real Barbie Dream House by Reddit user u/InkSlinger1983*
 
+</br>
 
 - Carefully craft your inputs—generic prompts get generic results. Ask focused questions.
 
@@ -110,6 +118,8 @@ The log serves two purposes:
 <img src="https://preview.redd.it/as-with-concept-cars-buildings-could-look-much-cooler-than-v0-ddjbctxqjkdb1.png?width=1024&format=png&auto=webp&s=48f1ec01e162656bcd2f5fd7b0c5b3596310a047" width="50%" />
 
 *Buildings could look much cooler than they do by Reddit user u/Grizzluza*
+
+</br>
 
 ### Generating topic ideas
 
@@ -144,7 +154,6 @@ Now, let’s use the AI to refine your idea and get some reflective feedback. Us
 
 *One topic idea I want to develop is [insert topic]. Please provide feedback to refine this topic for a 5-7 page research paper. Clarify the scope, reduce ambiguity, and suggest 3-5 kinds of evidence I should look for to properly investigate this topic*.
 
-
 Review the AI output and use it to refine your topic idea. Record the original prompt, AI response, and your reflections on the AI’s feedback in your logbook. Write down your revised topic idea.
 
 Using your refined topic, prompt the AI to outline specific steps for finding sources and evidence to research your chosen innovation. Develop your own prompt for this step and record it in your logbook.
@@ -166,6 +175,8 @@ At the end of this phase, you’ll submit:
 <img src="https://preview.redd.it/boring-america-photorealism-v0-s12isxnpeqdb1.png?width=1080&crop=smart&auto=webp&s=943987824cba74776550b836bc9b424e3a9553b8" width="50%" />
 
 *Boring American photorealism by Reddit user u/KudzuEye*
+
+</br>
 
 ### Find relevant sources
 
@@ -217,6 +228,8 @@ Submit the annotated bibliography and logbook showing your process and reflectio
 
 *Realistic retro Ghibli Pokémon by Reddit user u/smoley*
 
+</br>
+
 ### Brainstorming
 
 Prompt the AI conversationally to discuss potential thesis ideas related to your research topic. For example:
@@ -266,10 +279,11 @@ Submit a document containing your thesis statement and detailed outline as the d
 
 ## Phase 4: Drafting and Revision
 
-<img src="https://preview.redd.it/what-happens-when-you-mix-ancient-egypt-with-cyberpunk-v0-7uc8cybcrs2a1.jpg?width=1080&crop=smart&auto=webp&s=95ba5ef1f3febb8b72cb85e13ceaca5fab8194f2" width="50%" />
+<img src="https://preview.redd.it/retrofuturic-japan-in-space-v0-c959phw7njhb1.jpg?width=1024&format=pjpg&auto=webp&s=0fac8a542793a384b07747e7811dc698862b938f" width="50%" />
 
-*What happens when you mix ancient Egypt with cyperpunk? by Reddit user u/ThunderBR2*
+*Retrofuturistic by Reddit user u/jedzsol*
 
+</br>
 
 ### Create the rough draft
 
