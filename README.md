@@ -10,7 +10,7 @@ This is a draft assignment that I’m preparing for my upcoming "Ancient Algorit
 
 The assignment is a medium-length research article on an aspect of ancient math or technology chosen by the student, broken up into five phases. It requires students to develop a topic idea, research it, develop a thesis, and then produce a written document. The overaching goal is for students to use AI in a reflective way and express their own vision more effectively, but without losing agency.
 
-The assignment is laid out in five phases, covering the entire process of topic generation, background research, outlining, drafting and editing. For each phase, I supply example prompts that students can use to interact with an AI tool.  I plan to space this work out during the semester, with one phase due approximately every two weeks.
+The assignment is laid out in five phases, covering the entire process of topic generation, background research, outlining, drafting and editing. For each phase, I supply example prompts that students can use to interact with an AI tool.  I plan to space this work out during the semester, with one phase due approximately every two weeks. This draft doesn't include dates, but I would add them for the final assignment.
 
 This framework is based on lessons I learned in my Spring 2023 general education course, where we dedicated the entire second half of the semester to praticing with AI tools. It also incorporates ideas I've picked up from a number of sources, notably [Ethan Mollick's writing on teaching with AI](https://www.oneusefulthing.org/). I used Anthropic's Claude as part of the brainstorming process and for help drafting the content of some sections and the example prompts.
 
