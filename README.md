@@ -10,7 +10,7 @@ This framework is based on lessons I learned in my Spring 2023 general education
 
 ## Overview
 
-<img src="https://preview.redd.it/harry-potter-multiverse-series-retro-ghibli-verse-v0-h0ebi07775eb1.jpg?width=1024&format=pjpg&auto=webp&s=c06db8d82c94415303197547a0f3b0265834c289" width="50%"/>
+<img src="https://preview.redd.it/lzc27bpxqapa1.jpg?width=640&crop=smart&auto=webp&v=enabled&s=5f4bbfa5e26c3474e81e6c513aad03da6f359348" width="50%"/>
 
 *Snoop Dogg in classic TV series by Reddit user u/Larry-fine-wine*
 
