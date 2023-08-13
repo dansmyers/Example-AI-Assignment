@@ -47,7 +47,7 @@ The overall goal of this assignment is for you to practice using AI in a moderat
 
 ## Choosing a Topic
 
-<img src="https://preview.redd.it/as-with-concept-cars-buildings-could-look-much-cooler-than-v0-ctja7uxqjkdb1.png" width="50%"/>
+<img src="https://www.reddit.com/r/midjourney/comments/15oxqkw/the_house_at_the_end_of_the_road/?utm_source=share&utm_medium=mweb3x&utm_name=post_embed&utm_term=1&utm_content=1" width="50%"/>
 
 *Real estate photos of the real Barbie Dream House by Reddit user u/InkSlinger1983*
 
