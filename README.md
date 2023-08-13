@@ -157,6 +157,9 @@ At the end of this phase, you’ll submit:
 
 ## Phase 2: Detailed Research and Annotated Bibliography
 
+<img src="https://preview.redd.it/boring-america-photorealism-v0-s12isxnpeqdb1.png?width=1080&crop=smart&auto=webp&s=943987824cba74776550b836bc9b424e3a9553b8" width="50%" />
+
+*Boring American photorealism by Reddit user u/KudzuEye*
 
 ### Find relevant sources
 
@@ -178,7 +181,7 @@ Carefully read your articles. This will take some time. For each one—by yourse
 
 Tip: Because you have already done the work of refining your topic and creating a research plan, you should have a general sense of what kinds of information are useful for your paper.
 
-Once you have prepared your bulleted summaries, use an AI model to convert your summaries into paragraphs. If your articles are in PDF files, you can upload them to Claude and then ask it to produce a summary of the article following your guidelines.
+Once you have prepared your bulleted summaries, use an AI model to convert your summaries into paragraphs. If your articles are in PDF files, you can upload them to Claude and then ask it to produce a summary of the article following your bullet points.
 
 Paste each summary into your log, then write reflections on the accuracy and quality of the AI summaries. Make any necessary edits directly in the logbook.
 
