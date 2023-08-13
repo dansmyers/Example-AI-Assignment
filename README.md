@@ -64,6 +64,8 @@ This is intentionally broad. I want you to explore your own interests and bring 
 
 ## Process
 
+<img src="https://preview.redd.it/harry-potter-was-just-a-mediocre-tv-show-back-in-the-90s-v0-0c3hgsuuff3b1.png?width=1232&format=png&auto=webp&s=48e2d99eee8c37533f3b90e843b06d47cf1b84d4" width="50%" />
+
 This assignment is broken up into five phases, described in detail below. Each phase has a particular deliverable that you’ll submit. Read each phase carefully, because I will give you specific steps and prompts to use with AI tools for each part.
 
 You will also maintain a logbook keeping track of each step in your process. This is where you’ll record the prompts you give to the AI, the output it produces, and your responses and revisions. The directions for each phase will tell you when to record something in the log; make sure to read them carefully.
