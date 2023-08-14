@@ -202,7 +202,7 @@ Paste each summary into your log, then write reflections on the accuracy and qua
 
 Now use the following prompt to synthesize the main points from all of your sources:
 
-*I am researching [topic] and have summarized several academic sources as part of my annotated bibliography. The key points from my summaries are:
+*I am researching [topic] and have summarized several academic sources as part of my annotated bibliography. The key points from my summaries are:*
 
 - *[Bullet point summary of key points from Source 1]*
 - *[Bullet point summary of key points from Source 2]*
