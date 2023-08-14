@@ -203,10 +203,12 @@ Paste each summary into your log, then write reflections on the accuracy and qua
 Now use the following prompt to synthesize the main points from all of your sources:
 
 *I am researching [topic] and have summarized several academic sources as part of my annotated bibliography. The key points from my summaries are:
-- [Bullet point summary of key points from Source 1]
-- [Bullet point summary of key points from Source 2]
-- [Bullet point summary of key points from Sources 3-5]
-Please synthesize these main points from my source summaries into a coherent 1-2 paragraph overview. Identify common themes and relationships between the sources. What collective conclusions can be drawn about my research topic from these sources?*
+
+- *[Bullet point summary of key points from Source 1]*
+- *[Bullet point summary of key points from Source 2]*
+- *[Bullet point summary of key points from Sources 3-5]*
+
+*Please synthesize these main points from my source summaries into a coherent 1-2 paragraph overview. Identify common themes and relationships between the sources. What collective conclusions can be drawn about my research topic from these sources?*
 
 Again, put the results in your logbook and write a response. What does this synthesis suggest about the direction of your paper? What ideas about your topic seem more relevant and interesting?
 
