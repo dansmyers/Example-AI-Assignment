@@ -180,7 +180,7 @@ Use academic search engines and databases to find four relevant scholarly source
 
 Tip: you can use Bing AI as a starting point (recall that Bing is connected to the Internet, so it can perform real searches). Here’s an example prompt:
 
-Please research academic articles giving an overview of scholarship on [insert topic] and recommend three to five accessible papers that I can use to begin researching it in more detail.
+*Please research academic articles giving an overview of scholarship on [insert topic] and recommend three to five accessible papers that I can use to begin researching it in more detail.*
 
 Remember that Bing may return a mixture of references to real papers and made-up results. Carefully evaluate its output. Even if it returns a made-up paper, it may give you ideas for directions that you can explore through a more reliable academic search engine.
 
