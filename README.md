@@ -222,9 +222,9 @@ Submit the annotated bibliography and logbook showing your process and reflectio
 
 ## Phase 3: Thesis Statement and Outlining
 
-<img src="https://preview.redd.it/realistic-retro-ghibli-pok%C3%A9mon-v0-lfch73xa54hb1.jpg?width=1024&format=pjpg&auto=webp&s=28b5630df52dbd1cbdc80cff33c47200e7db21ef" width="50%" />
+<img src="https://preview.redd.it/retro-pok%C3%A9mon-done-by-ghibli-part-2-v0-cihkla529aib1.jpg?width=1024&format=pjpg&auto=webp&s=298b2baffdd8505abf9770ae8e15a6c7477bcd2e" width="50%" />
 
-*Realistic retro Ghibli Pokémon by Reddit user u/smoley*
+*Studio Ghibli Pokémon by Reddit user u/smoley*
 
 ### Brainstorming
 
