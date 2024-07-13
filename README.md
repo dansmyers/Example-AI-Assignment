@@ -97,7 +97,7 @@ The log serves two purposes:
 
 <img src="https://storage.googleapis.com/pai-images/23ed6881333d496f92384c2e3e22fcc7.jpeg" width="300px" />
 
-*Residential street in the solarpunk city of the future by me*
+*Residential street in the solarpunk city of the future by me using Playground AI*
 
 ### Generating topic ideas
 
