@@ -15,14 +15,14 @@ The assignment has five phases, covering the entire process of topic generation,
 This framework is based on lessons I learned in my Spring 2023 general education course, where we dedicated the entire second half of the semester to praticing with AI tools. It also incorporates ideas I've picked up from a number of sources, notably [Ethan Mollick's writing on teaching with AI](https://www.oneusefulthing.org/). I used Anthropic's Claude as part of the brainstorming process, and for help drafting the content of some sections and the example prompts.
 
 
-### Example Course
+### Example course
 
 The sections below are based on the version I developed for my Ancient Algorithms course in the Rollins Honors program. The class is survey of math, technology, and computation throughout history, with an emphasis on exploring different historical periods and cultures.
 
 The assignment easily generalizes to other courses, so you should feel free to modify it to meet the goals of your course. My colleagues and I have now used this framework successfully in several classes at Rollins, including general education courses, capstones, and upper-level STEM electives.
 
 
-### AI Details
+### AI models
 
 Anthropic's Claude is currently the best AI for academic work and the one that I recommend students use for brainstorming, writing, and editing. Some parts of the assignment use Microsoft's Copilot, which can search the Internet and is sometimes better for research-related tasks. ChatGPT-4o and Gemini are the other major models that may be useful, although I don't emphasize using them in my classes as much as Claude. You can encourage students to experiment (if it makes sense for your class), but I recommend giving students clear directions on what tools to use and how to prompt, at least at the beginning of the semester.
 
@@ -78,7 +78,7 @@ The log serves two purposes:
 - It demonstrates your thinking and reflection. Remember: your goal is to use AI as a tool to execute your own vision.
 
 
-### General AI Tips
+### General AI tips
 
 - Carefully craft your inputs—generic prompts get generic results. Ask focused questions.
 
