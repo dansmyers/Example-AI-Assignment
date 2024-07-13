@@ -8,19 +8,33 @@
 
 </br>
 
-This is a model assignment for a semester-long medium-length research article that integrates AI into every phase of the research and writing process. The overaching goal is for students to practice using AI tools in a reflective way, and move towards **collaborating with AI** instead of simply **delegating** work to a model. We've now used this framework successfully in several classes at Rollins.
+This is a model assignment for a semester-long medium-length research article that integrates AI into every phase of the research and writing process. The overaching goal is for students to practice using AI tools in a reflective way, and move towards **collaborating with AI** instead of simply **delegating** work to a model.
 
-The assignment has five phases, covering the entire process of topic generation, background research, outlining, drafting, and editing. For each phase, I supply example prompts that students can use to interact with an AI tool.
+The assignment has five phases, covering the entire process of topic generation, background research, outlining, drafting, and editing. For each phase, I supply example prompts that students can use to interact with an AI tool. Students also maintain a **logbook** where they record their prompts, the AI's responses, and their reflections and iterations. The log book is a key element of the assignment: it allows me to see how students are developing their ideas and assess their critical engagement with AI.
 
 This framework is based on lessons I learned in my Spring 2023 general education course, where we dedicated the entire second half of the semester to praticing with AI tools. It also incorporates ideas I've picked up from a number of sources, notably [Ethan Mollick's writing on teaching with AI](https://www.oneusefulthing.org/). I used Anthropic's Claude as part of the brainstorming process, and for help drafting the content of some sections and the example prompts.
-
-
-# Assignment Background
 
 
 ## Example Course
 
 The sections below are based on the version I developed for my Ancient Algorithms course in the Rollins Honors program. The class is survey of math, technology, and computation throughout history, with an emphasis on exploring different historical periods and cultures.
+
+The assignment easily generalizes to other courses, so you should feel free to modify it to meet the goals of your course. My colleagues and I have now used this framework successfully in several classes at Rollins.
+
+
+## AI Details
+
+Anthropic's Claude is currently the best AI for academic work and the one that I recommend students use for brainstorming, writing, and editing. Some parts of the assignment use Microsoft's Copilot, which can search the Internet and is sometimes better for research-related tasks. ChatGPT-4o and Gemini are the other major models that may be useful, although I don't emphasize using them in my classes as much as Claude. You can encourage students to experiment (if it makes sense for your class), but I recommend giving students clear directions on what tools to use and how to prompt, at least at the beginning of the semester.
+
+There are also a number of AI/search hybrid tools, like [Perplexity](https://www.perplexity.ai/) and [Elicit](https://elicit.com/), that may be helpful for the research steps. They aren't included in this version of the assignment, but we may incorporate them in the future.
+
+## Licensing
+
+
+
+
+# Assignment Background
+
 
 
 ## Overview
@@ -31,9 +45,7 @@ The sections below are based on the version I developed for my Ancient Algorithm
 
 </br>
 
-This course is about the development of computation, mathematics, and technology in the ancient world.
-
-In this, our major research project, you’re going to choose one particular historical innovation and write about why it’s important. This could be a new technology, a tool, a theorem, a computational method, or something else related to the broad themes of the course; I’ll give you some suggestions for choosing a topic below.
+This course is about the development of computation, mathematics, and technology in the ancient world. In this, our major research project, you’re going to choose one particular historical innovation and write about why it’s important. This could be a new technology, a tool, a theorem, a computational method, or something else related to the broad themes of the course.
 
 We’re also using this assignment to practice researching and writing with AI tools. Each phase integrates AI and you will be able to practice using AI in all phases of the writing process.
 
@@ -51,7 +63,7 @@ Note that, while I expect you to use AI to complete this assignment, some parts 
 
 The overall goal of this assignment is for you to practice using AI in a moderate-length research-based essay. In addition to developing a deeper understanding of your research topic, you will also:
 
-- **Understand the strengths and weaknesses of AI**. Language models are powerful, but aren’t good at everything. You should have a nuanced understanding of the strengths and weaknesses of AI and know how to choose the right tool for a particular task, which includes choosing between different AI tools (for example, Bing AI vs. Claude) and knowing when a search engine is a better choice than an AI.
+- **Understand the strengths and weaknesses of AI**. Language models are powerful, but aren’t good at everything. You should have a nuanced understanding of the strengths and weaknesses of AI and know how to choose the right tool for a particular task, which includes choosing between different AI tools (for example, Copilot vs. Claude) and knowing when a search engine is a better choice than an AI.
 
 
 - **Understand how to use AI in the writing process**, beyond simply giving it a prompt that generates a complete essay. We’ll practice using AI to generate ideas, refine a thesis statement, formulate a research plan, and collaboratively edit your work.
