@@ -4,7 +4,7 @@
 
 *Steampunk airship by me using Playground AI*
 
-### Introduction
+## Introduction
 
 
 
@@ -34,7 +34,7 @@ This work is licensed under the [Creative Commons CC0](https://creativecommons.o
 
 
 
-# Assignment Background
+## Assignment Background
 
 
 <img src="https://preview.redd.it/lzc27bpxqapa1.jpg?width=640&crop=smart&auto=webp&v=enabled&s=5f4bbfa5e26c3474e81e6c513aad03da6f359348" width="300px"/>
@@ -93,7 +93,7 @@ The log serves two purposes:
 - Consider the ethical implications of relying on AI for various tasks. Reflect on when human effort is still essential.
 
 
-# Phase 1: Topic Generation and Research Planning
+## Phase 1: Topic Generation and Research Planning
 
 <img src="https://storage.googleapis.com/pai-images/23ed6881333d496f92384c2e3e22fcc7.jpeg" width="300px" />
 
@@ -148,7 +148,7 @@ At the end of this phase, you’ll submit:
 - The logbook detailing your conversations with the AI and reflections on its responses.
 
 
-# Phase 2: Detailed Research and Annotated Bibliography
+## Phase 2: Detailed Research and Annotated Bibliography
 
 <img src="https://pbs.twimg.com/media/FrbBE0YWAAIxxa6?format=jpg&name=medium" width="300px" />
 
@@ -200,7 +200,7 @@ Compile citations for each source in APA format, the revised summaries, and synt
 Submit the annotated bibliography and logbook showing your process and reflections as the Phase 2 deliverables.
 
 
-# Phase 3: Thesis Statement and Outlining
+## Phase 3: Thesis Statement and Outlining
 
 <img src="https://preview.redd.it/tlzm7apmvbna1.png?width=1568&format=png&auto=webp&v=enabled&s=d33f7e85158543900699450e8b5a2d1f125de775" width="300px" />
 
@@ -260,7 +260,7 @@ Record the detailed outline in your logbook.
 Submit a document containing your thesis statement and detailed outline as the deliverable for this phase.
 
 
-# Phase 4: Drafting and Revision
+## Phase 4: Drafting and Revision
 
 <img src="https://preview.redd.it/retrofuturic-japan-in-space-v0-c959phw7njhb1.jpg?width=1024&format=pjpg&auto=webp&s=0fac8a542793a384b07747e7811dc698862b938f" width="300px" />
 
@@ -309,7 +309,7 @@ Submit your final revised draft and logbook and the deliverable for this phase. 
 
 
 
-# Phase 5: Finalization and Reflection
+## Phase 5: Finalization and Reflection
 
 <img src="https://preview.redd.it/freddie-mercury-performs-at-the-2023-san-francisco-pride-v0-ye3gznympz4b1.png?width=1024&format=png&auto=webp&s=ad6293772c017d41d815359eb9710b1884d6ea4c" width="300px" />
 
