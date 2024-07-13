@@ -38,7 +38,7 @@ This work is licensed under the [Creative Commons CC0](https://creativecommons.o
 
 
 
-## Overview
+### Overview
 
 <img src="https://preview.redd.it/lzc27bpxqapa1.jpg?width=640&crop=smart&auto=webp&v=enabled&s=5f4bbfa5e26c3474e81e6c513aad03da6f359348" width="50%"/>
 
@@ -53,7 +53,7 @@ We’re also using this assignment to practice researching and writing with AI t
 Note that, while I expect you to use AI to complete this assignment, some parts must still be done by you, yourself, without AI assistance. Review the AI statement on the course syllabus.
 
 
-## Goals
+### Goals
 
 
 <img src="https://preview.redd.it/tlzm7apmvbna1.png?width=1568&format=png&auto=webp&v=enabled&s=d33f7e85158543900699450e8b5a2d1f125de775" width="50%" />
@@ -76,7 +76,7 @@ The overall goal of this assignment is for you to practice using AI in a moderat
 - **Reflect on your experiences**. AI is new for all of us, so you need to think carefully about what you’ve learned and how to integrate it into your future work.
 
 
-## Process
+### Process
 
 <img src="https://preview.redd.it/harry-potter-was-just-a-mediocre-tv-show-back-in-the-90s-v0-0c3hgsuuff3b1.png?width=1232&format=png&auto=webp&s=48e2d99eee8c37533f3b90e843b06d47cf1b84d4" width="50%" />
 
@@ -95,7 +95,7 @@ The log serves two purposes:
 - It demonstrates your thinking and reflection. Remember: your goal is to use AI as a tool to execute your own vision.
 
 
-## General AI Tips
+### General AI Tips
 
 <img src="https://storage.googleapis.com/pai-images/23ed6881333d496f92384c2e3e22fcc7.jpeg" width="50%" />
 
@@ -122,7 +122,7 @@ The log serves two purposes:
 
 *Buildings could look much cooler than they do by Reddit user u/Grizzluza*
 
-## Generating topic ideas
+### Generating topic ideas
 
 To begin, you will use an AI tool to help generate some initial topic ideas that you can choose from for your research paper. The goal here is to get your creative juices flowing—the AI will suggest a wide range of possibilities to consider.
 
@@ -138,7 +138,7 @@ Tip: If you need to, prompt the AI to generate more ideas. Try refining the prom
 
 Based on the AI generated ideas and your own interests, choose 2-3 topic ideas to explore further. Write a few sentences explaining why you chose them.
 
-## Background pre-research
+### Background pre-research
 
 Next, use the Bing AI in Creative mode to gather some information on your potential topics. Think of this as “pre-research” to give you high-level background on the topics so you can further evaluate them. Here’s an example prompt:
 
@@ -149,7 +149,7 @@ Repeat the query for each of your potential topics. Review the background summar
 After evaluating each topic, select the one that you feel is most interesting and write a few sentences about why you chose it.
 
 
-## Research planning
+### Research planning
 
 Now, let’s use the AI to refine your idea and get some reflective feedback. Use the following prompt:
 
@@ -162,7 +162,7 @@ Using your refined topic, prompt the AI to outline specific steps for finding so
 Record the AI suggested research plan in your logbook. Make any revisions to the plan you think would improve it. If you think the plan isn’t clear, revise your prompt and try again until you get a more useful response.
 
 
-## Submission
+### Submission
 
 At the end of this phase, you’ll submit:
 
@@ -177,7 +177,7 @@ At the end of this phase, you’ll submit:
 
 *Nike x Van Gogh sneaker collab by Ethan Mollick using Midjourney.*
 
-## Find relevant sources
+### Find relevant sources
 
 Use academic search engines and databases to find four relevant scholarly sources on your topic, following the research plan developed in Phase 1.
 
@@ -191,7 +191,7 @@ In your logbook, summarize the search process. Explain why you chose the papers 
 
 At the end of this process, you should have 4-5 promising sources relevant to your topic.
 
-## Summarize your sources
+### Summarize your sources
 
 Carefully read your articles. This will take some time. For each one—by yourself, without an AI tool—write a list of the key points it makes related to your topic. What arguments does it make or what factual evidence does it supply? How does its content relate to your topic?
 
@@ -201,7 +201,7 @@ Once you have prepared your bulleted summaries, use an AI model to convert your 
 
 Paste each summary into your log, then write reflections on the accuracy and quality of the AI summaries. Make any necessary edits directly in the logbook.
 
-## Synthesizing sources
+### Synthesizing sources
 
 Now use the following prompt to synthesize the main points from all of your sources:
 
@@ -216,7 +216,7 @@ Now use the following prompt to synthesize the main points from all of your sour
 Again, put the results in your logbook and write a response. What does this synthesis suggest about the direction of your paper? What ideas about your topic seem more relevant and interesting?
 
 
-## Prepare the bibliography
+### Prepare the bibliography
 
 Compile citations for each source in APA format, the revised summaries, and synthesis paragraphs from your logbook into an annotated bibliography document.
 
@@ -229,7 +229,7 @@ Submit the annotated bibliography and logbook showing your process and reflectio
 
 *Studio Ghibli Pokémon by Reddit user u/smoley*
 
-## Brainstorming
+### Brainstorming
 
 Prompt the AI conversationally to discuss potential thesis ideas related to your research topic. For example:
 
@@ -239,7 +239,7 @@ Prompt the AI conversationally to discuss potential thesis ideas related to your
 Have a back-and-forth discussion prompting the AI to help refine and focus your main claims and ideas. Record the full conversation in your logbook.
 
 
-## Drafting a thesis statement
+### Drafting a thesis statement
 
 Based on your topic exploration so far, draft 1-2 potential thesis statements that present an insightful, defensible central claim. Aim for precision and significance.
 
@@ -249,7 +249,7 @@ Prompt the AI: *Please provide feedback on my draft thesis statements for my pap
 
 Refine your thesis based on the AI feedback. Record iterations in your logbook.
 
-## Structural outline
+### Structural outline
 
 Create a rough outline with the major sections of your paper—introduction, body paragraphs, conclusion—and short summaries of the key points and evidence to be covered in each section.
 
@@ -258,7 +258,7 @@ Prompt the AI: *Please review the structure of my outline and provide feedback. 
 Refine the structural outline based on the AI feedback. As before, enter the starting outline, the AI’s output, and your reflective revisions into your logbook.
 
 
-## Detailed outline
+### Detailed outline
 
 You’re now going to create a detailed outline that bridges the gap between your high-level structural outline and the actual draft you’ll write in the next phase. Use the following prompt:
 
@@ -271,7 +271,7 @@ You’re now going to create a detailed outline that bridges the gap between you
 Record the detailed outline in your logbook.
 
 
-## Submission
+### Submission
 
 Submit a document containing your thesis statement and detailed outline as the deliverable for this phase.
 
@@ -282,7 +282,7 @@ Submit a document containing your thesis statement and detailed outline as the d
 
 *Retrofuturistic Japan in space by Reddit user u/jedzsol*
 
-## Create the rough draft
+### Create the rough draft
 
 It’s now time to turn the detailed outline you produced in Phase 3 into a full draft of the paper.
 
@@ -303,7 +303,7 @@ Here are some other tips:
 - Maintain your agency! Remember that you are in charge and the AI is there to execute your vision. Don’t outsource your thinking!
 
 
-## Workshop
+### Workshop
 
 Once you have completed your draft, ask the AI to take on the role of a peer reviewer and provide feedback:
 
@@ -319,7 +319,7 @@ Once you have completed your draft, ask the AI to take on the role of a peer rev
 Enter the AI response into your log and then write a few sentences giving your evaluation of its feedback. Does the AI make good points? Record the changes, if any, that you make in response.
 
 
-## Submission
+### Submission
 
 Submit your final revised draft and logbook and the deliverable for this phase. Remember that your log should record the AI interactions and your reflective responses that led to the creation of the final draft.
 
@@ -331,11 +331,11 @@ Submit your final revised draft and logbook and the deliverable for this phase. 
 
 *Freddie Mercury performing at the 2023 San Francisco Pride parade by Reddit user u/Legitimate-Room-1905*
 
-## Final edits
+### Final edits
 
 Finalize the content of your paper. You’re free to use AI to suggest edits, following the model of Phase 4. Experiment with prompting the AI in different ways to provide varying perspectives on your paper—for example, by asking it to take on different roles.
 
-## Reflection
+### Reflection
 
 Prompt the AI to act as your coach and use it to have a reflective conversation. Enter the conversation, including your responses, into your logbook.
 
@@ -352,7 +352,7 @@ Prompt the AI to act as your coach and use it to have a reflective conversation.
 *You can prompt me with follow-up questions and prompts to push my reflection deeper. The goal is to synthesize my learnings and think critically about integrating AI thoughtfully. Please act as my coach guiding me through this reflective discussion.*
 
 
-## Lessons learned
+### Lessons learned
 
 For your final element, write a one-page summary talking about what you learned during this process. This is a reflection of your thoughts, so it should be written by you, without using any tools. You’re free to write your own thoughts, but some things you might want to consider include:
 
@@ -367,7 +367,7 @@ For your final element, write a one-page summary talking about what you learned 
 - Based on your experiences, how do you think education should (or should not) adapt to respond to AI?
 
 
-## Submission
+### Submission
 
 Submit the completed final paper, your logbook containing the reflective conversation, and the final lessons learned write-up.
 
