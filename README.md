@@ -52,13 +52,6 @@ Note that, while I expect you to use AI to complete this assignment, some parts 
 
 ### Goals
 
-
-<img src="https://preview.redd.it/tlzm7apmvbna1.png?width=1568&format=png&auto=webp&v=enabled&s=d33f7e85158543900699450e8b5a2d1f125de775" width="300px" />
-
-*Edward Hopper's 'Bored Women Looking at Their Smartphones' by Reddit user u/uriba*
-
-</br>
-
 The overall goal of this assignment is for you to practice using AI in a moderate-length research-based essay. In addition to developing a deeper understanding of your research topic, you will also:
 
 - **Understand the strengths and weaknesses of AI**. Language models are powerful, but aren’t good at everything. You should have a nuanced understanding of the strengths and weaknesses of AI and know how to choose the right tool for a particular task, which includes choosing between different AI tools (for example, Copilot vs. Claude) and knowing when a search engine is a better choice than an AI.
@@ -75,12 +68,6 @@ The overall goal of this assignment is for you to practice using AI in a moderat
 
 ### Process
 
-<img src="https://preview.redd.it/harry-potter-was-just-a-mediocre-tv-show-back-in-the-90s-v0-0c3hgsuuff3b1.png?width=1232&format=png&auto=webp&s=48e2d99eee8c37533f3b90e843b06d47cf1b84d4" width="300px" />
-
-*Harry Potter was just a mediocre TV show back in the 90s by Reddit user u/reddimatz*
-
-</br>
-
 This assignment is broken up into five phases, described in detail below. Each phase has a particular deliverable that you’ll submit. Read each phase carefully, because I will give you specific steps and prompts to use with AI tools for each part.
 
 You will also maintain a logbook keeping track of each step in your process. This is where you’ll record the prompts you give to the AI, the output it produces, and your responses and revisions. The directions for each phase will tell you when to record something in the log; make sure to read them carefully.
@@ -92,12 +79,6 @@ The log serves two purposes:
 
 
 ### General AI Tips
-
-<img src="https://storage.googleapis.com/pai-images/23ed6881333d496f92384c2e3e22fcc7.jpeg" width="300px" />
-
-*Residential street in the solarpunk city of the future by me*
-
-</br>
 
 - Carefully craft your inputs—generic prompts get generic results. Ask focused questions.
 
@@ -114,9 +95,9 @@ The log serves two purposes:
 
 # Phase 1: Topic Generation and Research Planning
 
-<img src="https://preview.redd.it/as-with-concept-cars-buildings-could-look-much-cooler-than-v0-ddjbctxqjkdb1.png?width=1024&format=png&auto=webp&s=48f1ec01e162656bcd2f5fd7b0c5b3596310a047" width="300px" />
+<img src="https://storage.googleapis.com/pai-images/23ed6881333d496f92384c2e3e22fcc7.jpeg" width="300px" />
 
-*Buildings could look much cooler than they do by Reddit user u/Grizzluza*
+*Residential street in the solarpunk city of the future by me*
 
 ### Generating topic ideas
 
@@ -221,9 +202,9 @@ Submit the annotated bibliography and logbook showing your process and reflectio
 
 # Phase 3: Thesis Statement and Outlining
 
-<img src="https://preview.redd.it/retro-pok%C3%A9mon-done-by-ghibli-part-2-v0-cihkla529aib1.jpg?width=1024&format=pjpg&auto=webp&s=298b2baffdd8505abf9770ae8e15a6c7477bcd2e" width="300px" />
+<img src="https://preview.redd.it/tlzm7apmvbna1.png?width=1568&format=png&auto=webp&v=enabled&s=d33f7e85158543900699450e8b5a2d1f125de775" width="300px" />
 
-*Studio Ghibli Pokémon by Reddit user u/smoley*
+*Edward Hopper's 'Bored Women Looking at Their Smartphones' by Reddit user u/uriba*
 
 ### Brainstorming
 
