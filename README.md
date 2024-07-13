@@ -37,14 +37,11 @@ This work is licensed under the [Creative Commons CC0](https://creativecommons.o
 # Assignment Background
 
 
-
-### Overview
-
-<img src="https://preview.redd.it/lzc27bpxqapa1.jpg?width=640&crop=smart&auto=webp&v=enabled&s=5f4bbfa5e26c3474e81e6c513aad03da6f359348" width="50%"/>
+<img src="https://preview.redd.it/lzc27bpxqapa1.jpg?width=640&crop=smart&auto=webp&v=enabled&s=5f4bbfa5e26c3474e81e6c513aad03da6f359348" width="300px"/>
 
 *Snoop Dogg in classic TV series by Reddit user u/Larry-fine-wine*
 
-</br>
+### Overview
 
 This course is about the development of computation, mathematics, and technology in the ancient world. In this, our major research project, you’re going to choose one particular historical innovation and write about why it’s important. This could be a new technology, a tool, a theorem, a computational method, or something else related to the broad themes of the course.
 
@@ -56,7 +53,7 @@ Note that, while I expect you to use AI to complete this assignment, some parts 
 ### Goals
 
 
-<img src="https://preview.redd.it/tlzm7apmvbna1.png?width=1568&format=png&auto=webp&v=enabled&s=d33f7e85158543900699450e8b5a2d1f125de775" width="50%" />
+<img src="https://preview.redd.it/tlzm7apmvbna1.png?width=1568&format=png&auto=webp&v=enabled&s=d33f7e85158543900699450e8b5a2d1f125de775" width="300px" />
 
 *Edward Hopper's 'Bored Women Looking at Their Smartphones' by Reddit user u/uriba*
 
@@ -78,7 +75,7 @@ The overall goal of this assignment is for you to practice using AI in a moderat
 
 ### Process
 
-<img src="https://preview.redd.it/harry-potter-was-just-a-mediocre-tv-show-back-in-the-90s-v0-0c3hgsuuff3b1.png?width=1232&format=png&auto=webp&s=48e2d99eee8c37533f3b90e843b06d47cf1b84d4" width="50%" />
+<img src="https://preview.redd.it/harry-potter-was-just-a-mediocre-tv-show-back-in-the-90s-v0-0c3hgsuuff3b1.png?width=1232&format=png&auto=webp&s=48e2d99eee8c37533f3b90e843b06d47cf1b84d4" width="300px" />
 
 *Harry Potter was just a mediocre TV show back in the 90s by Reddit user u/reddimatz*
 
@@ -96,7 +93,7 @@ The log serves two purposes:
 
 ### General AI Tips
 
-<img src="https://storage.googleapis.com/pai-images/23ed6881333d496f92384c2e3e22fcc7.jpeg" width="50%" />
+<img src="https://storage.googleapis.com/pai-images/23ed6881333d496f92384c2e3e22fcc7.jpeg" width="300px" />
 
 *Residential street in the solarpunk city of the future by me*
 
@@ -117,7 +114,7 @@ The log serves two purposes:
 
 # Phase 1: Topic Generation and Research Planning
 
-<img src="https://preview.redd.it/as-with-concept-cars-buildings-could-look-much-cooler-than-v0-ddjbctxqjkdb1.png?width=1024&format=png&auto=webp&s=48f1ec01e162656bcd2f5fd7b0c5b3596310a047" width="50%" />
+<img src="https://preview.redd.it/as-with-concept-cars-buildings-could-look-much-cooler-than-v0-ddjbctxqjkdb1.png?width=1024&format=png&auto=webp&s=48f1ec01e162656bcd2f5fd7b0c5b3596310a047" width="300px" />
 
 *Buildings could look much cooler than they do by Reddit user u/Grizzluza*
 
@@ -172,7 +169,7 @@ At the end of this phase, you’ll submit:
 
 # Phase 2: Detailed Research and Annotated Bibliography
 
-<img src="https://pbs.twimg.com/media/FrbBE0YWAAIxxa6?format=jpg&name=medium" width="50%" />
+<img src="https://pbs.twimg.com/media/FrbBE0YWAAIxxa6?format=jpg&name=medium" width="300px" />
 
 *Nike x Van Gogh sneaker collab by Ethan Mollick using Midjourney.*
 
@@ -224,7 +221,7 @@ Submit the annotated bibliography and logbook showing your process and reflectio
 
 # Phase 3: Thesis Statement and Outlining
 
-<img src="https://preview.redd.it/retro-pok%C3%A9mon-done-by-ghibli-part-2-v0-cihkla529aib1.jpg?width=1024&format=pjpg&auto=webp&s=298b2baffdd8505abf9770ae8e15a6c7477bcd2e" width="50%" />
+<img src="https://preview.redd.it/retro-pok%C3%A9mon-done-by-ghibli-part-2-v0-cihkla529aib1.jpg?width=1024&format=pjpg&auto=webp&s=298b2baffdd8505abf9770ae8e15a6c7477bcd2e" width="300px" />
 
 *Studio Ghibli Pokémon by Reddit user u/smoley*
 
@@ -277,7 +274,7 @@ Submit a document containing your thesis statement and detailed outline as the d
 
 # Phase 4: Drafting and Revision
 
-<img src="https://preview.redd.it/retrofuturic-japan-in-space-v0-c959phw7njhb1.jpg?width=1024&format=pjpg&auto=webp&s=0fac8a542793a384b07747e7811dc698862b938f" width="50%" />
+<img src="https://preview.redd.it/retrofuturic-japan-in-space-v0-c959phw7njhb1.jpg?width=1024&format=pjpg&auto=webp&s=0fac8a542793a384b07747e7811dc698862b938f" width="300px" />
 
 *Retrofuturistic Japan in space by Reddit user u/jedzsol*
 
@@ -326,7 +323,7 @@ Submit your final revised draft and logbook and the deliverable for this phase. 
 
 # Phase 5: Finalization and Reflection
 
-<img src="https://preview.redd.it/freddie-mercury-performs-at-the-2023-san-francisco-pride-v0-ye3gznympz4b1.png?width=1024&format=png&auto=webp&s=ad6293772c017d41d815359eb9710b1884d6ea4c" width="50%" />
+<img src="https://preview.redd.it/freddie-mercury-performs-at-the-2023-san-francisco-pride-v0-ye3gznympz4b1.png?width=1024&format=png&auto=webp&s=ad6293772c017d41d815359eb9710b1884d6ea4c" width="300px" />
 
 *Freddie Mercury performing at the 2023 San Francisco Pride parade by Reddit user u/Legitimate-Room-1905*
 
