@@ -239,9 +239,9 @@ Have a back-and-forth discussion prompting the AI to help refine and focus your 
 
 Based on your topic exploration so far, draft 1-2 potential thesis statements that present an insightful, defensible central claim. Aim for precision and significance.
 
-In your logbook, reflect on what makes an effective thesis statement.
+In your logbook, reflect on what makes an effective thesis statement, then prompt the AI:
 
-Prompt the AI: *Please provide feedback on my draft thesis statement for my paper on [topic].  My thesis is [insert thesis].   The thesis needs to*
+*Please provide feedback on my draft thesis statement for my paper on [topic].  My thesis is [insert thesis].   The thesis needs to*
 - *Provide the reader with clear expectations on what I'm setting out to prove or deeply analyze*
 - *Explore an interesting or not obvious connection between the tilt of the earth and some aspect of society or the environment*
 - *Have an argumentative element to it requiring support from multiple sources*
