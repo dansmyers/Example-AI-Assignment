@@ -2,7 +2,7 @@
 
 ### Introduction
 
-<img src="https://storage.googleapis.com/pai-images/9fde941edf2a4bc3accb801d848cbdcd.jpeg" width="50%" />
+<img src="https://storage.googleapis.com/pai-images/9fde941edf2a4bc3accb801d848cbdcd.jpeg" width="300px" />
 
 *Steampunk airship by me using Playground AI*
 
@@ -91,7 +91,6 @@ You will also maintain a logbook keeping track of each step in your process. Thi
 The log serves two purposes:
 
 - It’s the record of your work-in-progress, so you don’t have to worry about losing anything if you accidentally delete an AI conversation.
-
 - It demonstrates your thinking and reflection. Remember: your goal is to use AI as a tool to execute your own vision.
 
 
