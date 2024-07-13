@@ -63,25 +63,6 @@ The overall goal of this assignment is for you to practice using AI in a moderat
 - **Reflect on your experiences**. AI is new for all of us, so you need to think carefully about what you’ve learned and how to integrate it into your future work.
 
 
-## Choosing a Topic
-
-<img src="https://pbs.twimg.com/media/FqGkr4JWYAIlout?format=jpg&name=medium" width="50%" />
-
-*American presidents, but they're all cool and they all sport a mullet by Cam Harless*
-
-</br>
-
-Identify some historical innovation related to computation, math, technology, or a related area and write about why it was significant at the time of its creation and why it still matters to the modern world.
-
-This is intentionally broad. I want you to explore your own interests and bring in ideas from your other classes. Here are some flexible guidelines to think about when choosing your topic:
-
-- Focus on a **specific innovation**. For example, ideas like “agriculture” or “clocks” are too broad—you’d have to write a survey of thousands of years of history—but you could focus on one particular innovation within those areas, such as the marine chronometer or the singing plow.
-
-- You don’t have to choose a physical thing. You can write about a mathematical result, or a theory, book, or intellectual movement.
-
-- Choose a topic that’s preferably pre-1800. It’s okay to bring in connections from the modern world when they're appropriate, but we'd prefer to focus on older historical innovations, not just the development of well-known industrial-era technologies.
-
-
 ## Process
 
 <img src="https://preview.redd.it/harry-potter-was-just-a-mediocre-tv-show-back-in-the-90s-v0-0c3hgsuuff3b1.png?width=1232&format=png&auto=webp&s=48e2d99eee8c37533f3b90e843b06d47cf1b84d4" width="50%" />
