@@ -1,12 +1,12 @@
 # An Example AI-Assisted Writing Assignment
 
-### Introduction
-
 <img src="https://storage.googleapis.com/pai-images/9fde941edf2a4bc3accb801d848cbdcd.jpeg" width="300px" />
 
 *Steampunk airship by me using Playground AI*
 
-</br>
+### Introduction
+
+
 
 This is a model assignment for a semester-long medium-length research article that integrates AI into every phase of the research and writing process. The overaching goal is for students to practice using AI tools in a reflective way, and move towards **collaborating with AI** instead of simply **delegating** work to a model.
 
