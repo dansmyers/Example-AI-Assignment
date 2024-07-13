@@ -247,6 +247,7 @@ In your logbook, reflect on what makes an effective thesis statement, then promp
 - *Have an argumentative element to it requiring support from multiple sources*
 - *Foster an interdisciplinary approach utilizing at least two of:  science, social science, humanities, and expressive arts*
 - *Be appropriate for a 5-7 page college research paper in an Honors course*
+
 *Comment on how the thesis fits the criteria above, and suggest ways to improve clarity, focus, and compellingness.*
 
 
