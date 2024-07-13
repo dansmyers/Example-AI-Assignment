@@ -128,7 +128,7 @@ After evaluating each topic, select the one that you feel is most interesting an
 
 ### Research planning
 
-Now, let’s use the AI to refine your idea and get some reflective feedback. Use the following prompt:
+Now, let’s use the AI to refine your idea and get some reflective feedback. Use the following prompt in Claude:
 
 *One topic idea I want to develop is [insert topic]. Please provide feedback to refine this topic for a 5-7 page research paper. Clarify the scope, reduce ambiguity, and suggest 3-5 kinds of evidence I should look for to properly investigate this topic*.
 
