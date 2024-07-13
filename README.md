@@ -243,9 +243,8 @@ In your logbook, reflect on what makes an effective thesis statement, then promp
 
 *Please provide feedback on my draft thesis statement for my paper on [topic].  My thesis is [insert thesis].   The thesis needs to*
 - *Provide the reader with clear expectations on what I'm setting out to prove or deeply analyze*
-- *Explore an interesting or not obvious connection between the tilt of the earth and some aspect of society or the environment*
+- *Explore an interesting or not obvious ideas about ancient math or technology*
 - *Have an argumentative element to it requiring support from multiple sources*
-- *Foster an interdisciplinary approach utilizing at least two of:  science, social science, humanities, and expressive arts*
 - *Be appropriate for a 5-7 page college research paper in an Honors course*
 
 *Comment on how the thesis fits the criteria above, and suggest ways to improve clarity, focus, and compellingness.*
