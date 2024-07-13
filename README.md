@@ -86,7 +86,7 @@ The log serves two purposes:
 
 - Balance AI assistance with doing your own analysis and using your own voice. Maintain agency over your work!
 
-- Use the right tool for each task. I recommend using either Bing AI or Claude as your main model: both are better than the free version of ChatGPT at this point. Remember that Bing can access the Internet, but sometimes a conventional search engine is a better choice.
+- Use the right tool for each task. I recommend using either Copilot in Creative mode or Claude as your main model: both are better than the free version of ChatGPT at this point. Remember that Copilot can access the Internet, but sometimes a conventional search engine is a better choice.
 
 - Remember that AI has limitations and biases. Do not assume AI output is factual or neutral. Validate against credible sources.
 
@@ -107,7 +107,7 @@ Open your logbook document. Write the following prompt:
 
 *Please generate 10 potential topics for my research paper in the course 'Ancient Algorithms'. The topics should relate to innovations in ancient technology, mathematics, or computation from before 1800 CE. The subject of the paper should be a specific tool, invention, theory, written work, or intellectual movement. Present each topic idea as a title*.
 
-Input the prompt into an AI tool, either Claude or Bing AI in Creative mode. Copy the generated list of 10 topic ideas into your logbook.
+Input the prompt into Claude. Copy the generated list of 10 topic ideas into your logbook.
 
 Write a few sentences reflecting on the topic ideas. Do they seem interesting? Are they appropriate for the scope of this assignment? Would you revise or modify any of them? Note your thoughts in your logbook.
 
@@ -117,7 +117,7 @@ Based on the AI generated ideas and your own interests, choose 2-3 topic ideas t
 
 ### Background pre-research
 
-Next, use the Bing AI in Creative mode to gather some information on your potential topics. Think of this as “pre-research” to give you high-level background on the topics so you can further evaluate them. Here’s an example prompt:
+Next, use Copilot in Creative mode to gather some information on your potential topics. Think of this as “pre-research” to give you high-level background on the topics so you can further evaluate them. Here’s an example prompt:
 
 *I’d like to learn more about [insert topic]. Please provide an overview of its historical background and significance. Include information on what it is, when and where it was created, why it was an important innovation in its time period, and its relevance to modern society*.
 
@@ -158,11 +158,11 @@ At the end of this phase, you’ll submit:
 
 Use academic search engines and databases to find four relevant scholarly sources on your topic, following the research plan developed in Phase 1.
 
-Tip: you can use Bing AI as a starting point (recall that Bing is connected to the Internet, so it can perform real searches). Here’s an example prompt:
+Tip: you can use Copilot as a starting point (recall that Copilot is connected to the Internet, so it can perform real searches). Here’s an example prompt:
 
 *Please research academic articles giving an overview of scholarship on [insert topic] and recommend three to five accessible papers that I can use to begin researching it in more detail.*
 
-Remember that Bing may return a mixture of references to real papers and made-up results. Carefully evaluate its output. Even if it returns a made-up paper, it may give you ideas for directions that you can explore through a more reliable academic search engine.
+Remember that Copilot may return a mixture of references to real papers and made-up results. Carefully evaluate its output. Even if it returns a made-up paper, it may give you ideas for directions that you can explore through a more reliable academic search engine.
 
 In your logbook, summarize the search process. Explain why you chose the papers that you did. Reflect on the quality of the results you obtained.
 
