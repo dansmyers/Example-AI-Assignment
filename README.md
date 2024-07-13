@@ -19,7 +19,7 @@ This framework is based on lessons I learned in my Spring 2023 general education
 
 The sections below are based on the version I developed for my Ancient Algorithms course in the Rollins Honors program. The class is survey of math, technology, and computation throughout history, with an emphasis on exploring different historical periods and cultures.
 
-The assignment easily generalizes to other courses, so you should feel free to modify it to meet the goals of your course. My colleagues and I have now used this framework successfully in several classes at Rollins.
+The assignment easily generalizes to other courses, so you should feel free to modify it to meet the goals of your course. My colleagues and I have now used this framework successfully in several classes at Rollins, including general education courses, capstones, and upper-level STEM electives.
 
 
 ### AI Details
