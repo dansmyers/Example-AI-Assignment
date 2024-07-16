@@ -70,7 +70,7 @@ The overall goal of this assignment is for you to practice using AI in a moderat
 
 This assignment is broken up into five phases, described in detail below. Each phase has a particular deliverable that you’ll submit. Read each phase carefully, because I will give you specific steps and prompts to use with AI tools for each part.
 
-You will also maintain a logbook keeping track of each step in your process. This is where you’ll record the prompts you give to the AI, the output it produces, and your responses and revisions. The directions for each phase will tell you when to record something in the log; make sure to read them carefully.
+You will also maintain a **logbook** keeping track of each step in your process. This is where you’ll record the prompts you give to the AI, the output it produces, and your responses and revisions. The directions for each phase will tell you when to record something in the log; make sure to read them carefully.
 
 The log serves two purposes:
 
