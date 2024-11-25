@@ -1,6 +1,6 @@
 # An Example AI-Assisted Writing Assignment
 
-<img src="https://storage.googleapis.com/pai-images/9fde941edf2a4bc3accb801d848cbdcd.jpeg" width="300px" />
+<img src="https://dansmyers.github.io/airship.jpeg" width="300px" />
 
 *Steampunk airship by me using Playground AI*
 
