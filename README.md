@@ -280,11 +280,13 @@ You have broad freedom to complete this phase in the way that you feel is best, 
 
 I do, however, have one important guideline: don’t try to create your draft by running one single prompt, and then repeatedly editing that prompt. As a rough rule, it's hard to generate more than about one decent paragraph of text per sentence of the prompt. The more details you leave unspecified, the more the model has to fill in to generate the required amount of text, which increases the chance of hallucinations and empty writing.
 
-Here are two techniques you may find helpful:
+Here are three techniques you may find helpful:
 
-1. **Get huge**. Make a big prompt containing ***everything***: your topic, thesis statement, outline, annotated bibliography, paper summaries, all of your notes, and so forth. Fill that context window! The more information you supply, the more relevant info the model has to draw from.
+1. **Get HUGE**. Make a big prompt containing ***everything***: your topic, thesis statement, outline, annotated bibliography, paper summaries, all of your notes, and so forth. Fill that context window! The more information you supply, the more relevant info the model has to draw from.
 
-2. **Collaborate**. Just write as normal, but use the AI as a partner-in-the-loop to help you solve writing problems as you go. If you get stuck, ask for help getting unstuck. You can quickly free-write ideas, then ask the AI to clean them up. This approach is less flashy, but works well because it's fundamentally built around **your voice**.
+2. **Partial writing**. Write some parts yourself, then ask the AI to fill in the details. For example, you might write the introduction, conclusion, and first sentences of each paragraph, then try generating the rest of the body. This mixes well with the big prompt approach.
+
+3. **Collaborate**. Just write as normal, but use the AI as a partner-in-the-loop to help you solve writing problems as you go. If you get stuck, ask for help getting unstuck. You can quickly free-write ideas, then ask the AI to clean them up. This approach is less flashy, but works well because it's fundamentally built around **your voice**.
 
 Once you generate your initial draft, enter it in your log. As you make revisions, record your thought process and any prompts that you use into the log, so you have a record of your AI interactions (and manual edits) that led up to the final draft.
 
