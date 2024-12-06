@@ -80,15 +80,15 @@ The log serves two purposes:
 
 ### General AI tips
 
-- Carefully craft your inputs—generic prompts get generic results. Ask focused questions.
+- Don't simply hand-off work to the AI. Think about using AI as a collaborator and have conversations.
 
-- AI models can easily hallucinate information, including facts, references, and dates. Don’t trust the output of a model unless you know it’s true or can verify it with a reliable third-party source. AI works best on topics you know well. You still need to do independent research!
+- Don't come empty-handed. Bring your current work-in-progress (even if that's just an idea) and start chatting about the next steps.
+
+- AI models can easily hallucinate information, including facts, references, and dates. Don’t trust the output of a model unless you know it’s true or can verify it with a reliable third-party source.
 
 - Balance AI assistance with doing your own analysis and using your own voice. Maintain agency over your work!
 
 - Use the right tool for each task. I recommend using either Copilot in Creative mode or Claude as your main model. Remember that Copilot can access the Internet, but sometimes a conventional search engine is a better choice. ChatGPT-4o and Google's Gemini are the other major foundation models; you might want to experiment with them and compare their results to Claude.
-
-- Remember that AI has limitations and biases. Do not assume AI output is factual or neutral. Validate against credible sources.
 
 - Consider the ethical implications of relying on AI for various tasks. Reflect on when human effort is still essential.
 
@@ -158,19 +158,24 @@ At the end of this phase, you’ll submit:
 
 Use academic search engines and databases to find four relevant scholarly sources on your topic, following the research plan developed in Phase 1.
 
-Tip: you can use Copilot as a starting point (recall that Copilot is connected to the Internet, so it can perform real searches). Here’s an example prompt:
+Start by using [Perplexity](https://www.perplexity.ai/), an AI-supported search engine. Here’s an example prompt:
 
 *Please research academic articles giving an overview of scholarship on [insert topic] and recommend three to five accessible papers that I can use to begin researching it in more detail.*
 
-Remember that Copilot may return a mixture of references to real papers and made-up results. Carefully evaluate its output. Even if it returns a made-up paper, it may give you ideas for directions that you can explore through a more reliable academic search engine.
+The output will give you a summary of the topic with links to background articles. Read the summary, follow those links, and take a look at the articles. Perform some follow-up queries as you look for more relevant threads. Your initial goal is to build a general understanding of the background of your topic area and identify some major themes.
 
-In your logbook, summarize the search process. Explain why you chose the papers that you did. Reflect on the quality of the results you obtained.
+Once you've explored the topic a bit with Perplexity, switch to Scopus AI, a stronger engine that actually searches academic databases for peer-reviewed work.
 
-At the end of this process, you should have 4-5 promising sources relevant to your topic.
+- To access it, [go here](https://libguides.rollins.edu/az/databases?a=s) and scroll down to the Scopus link.
+- Once you're on the Scopus page, click on "Scopus AI" in the menu bar near the top.
+
+Again, iterate with Scopus AI as you look for relevant articles. It will provide summaries for you, but you still want to look at the actual underlying papers: the summaries may not be 100% accurate, or they may not have complete details relevant to your question.
+
+In your logbook, summarize the search process. Explain why you chose the papers that you did. Reflect on the quality of the results you obtained. At the end of this process, you should have 4-5 promising sources relevant to your topic.
 
 ### Summarize your sources
 
-Carefully read your articles. This will take some time. For each one—by yourself, without an AI tool—write a list of the key points it makes related to your topic. What arguments does it make or what factual evidence does it supply? How does its content relate to your topic?
+Carefully read your articles. This will take some time. For each one — by yourself, without an AI tool — write a list of the key points it makes related to your topic. What arguments does it make or what factual evidence does it supply? How does its content relate to your topic?
 
 Tip: Because you have already done the work of refining your topic and creating a research plan, you should have a general sense of what kinds of information are useful for your paper.
 
@@ -186,9 +191,10 @@ Now use the following prompt to synthesize the main points from all of your sour
 
 - *[Bullet point summary of key points from Source 1]*
 - *[Bullet point summary of key points from Source 2]*
-- *[Bullet point summary of key points from Sources 3-5]*
+- *[Bullet point summary of key points from Sources 3]*
+- *Continued summaries of other sources*
 
-*Please synthesize these main points from my source summaries into a coherent 1-2 paragraph overview. Identify common themes and relationships between the sources. What collective conclusions can be drawn about my research topic from these sources?*
+*Please synthesize these main points from my source summaries into a coherent 2-3 paragraph overview. Identify common themes and relationships between the sources. What collective conclusions can be drawn about my research topic from these sources?*
 
 Again, put the results in your logbook and write a response. What does this synthesis suggest about the direction of your paper? What ideas about your topic seem more relevant and interesting?
 
@@ -272,15 +278,26 @@ It’s now time to turn the detailed outline you produced in Phase 3 into a full
 
 You have broad freedom to complete this phase in the way that you feel is best, including developing your own AI prompts.
 
-I do, however, have one important guideline: don’t try to create your draft by running one single prompt, and then repeatedly editing that prompt. A much better strategy is to start by generating a rough draft, then collaboratively edit it by asking the AI questions and telling it to make specific changes to parts that need to be improved.
+I do, however, have one important guideline: don’t try to create your draft by running one single prompt, and then repeatedly editing that prompt. As a general rule, it's hard to generate more than about one paragraph of text per sentence of the prompt. The more details you leave unspecified, the more the model has to fill in to generate the required amount of text, which increases the chance of hallucinations and empty writing.
+
+Here are two techniques you may find helpful:
+
+1. **Get huge**. Make a big prompt containing ***everything***: your topic, thesis statement, outline, annotated bibliography, paper summaries, all of your notes, and so forth. Fill that context window! The more information you supply, the more relevant info the model has to draw from.
+
+2. **Collaborate**. Just write as normal, but use the AI as a partner-in-the-loop to help you solve writing problems as you go. If you get stuck, ask for help getting unstuck. You can quickly free-write ideas, then ask the AI to clean them up. This approach is less flashy, but works well because it's fundamentally built around **your voice**.
 
 Once you generate your initial draft, enter it in your log. As you make revisions, record your thought process and any prompts that you use into the log, so you have a record of your AI interactions (and manual edits) that led up to the final draft.
+
 
 You’ll need to include a list of references at the end. I recommend using APA-style citations with the (Name, Year) form.
 
 Here are some other tips:
 
-- You could, of course, start by asking the AI to take your detailed outline and expand it into full sentences. Consider carefully if that’s the best way to begin. You might do better by drafting the introduction and conclusion first to give the AI more context.
+- "Make it better" is surprisingly useful for improving a draft. It prompts the model to self-evaluate and improve the draft.
+
+- If the style seems too "default AI", give it a specific persona to use when writing.
+
+- Be careful about asking for revisions of length or style over the entire text; they can often lead to major content rewrites.
 
 - You will need to include references to your cited works and relevant factual information. Remember that AI tools often struggle with this. Carefully check all factual information in your draft. You will probably need to make hand edits to make sure the information you include is correct.
 
