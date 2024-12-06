@@ -288,7 +288,7 @@ Here are three techniques you may find helpful:
 
 3. **Collaborate**. Just write as normal, but use the AI as a partner-in-the-loop to help you solve writing problems as you go. If you get stuck, ask for help getting unstuck. You can quickly free-write ideas, then ask the AI to clean them up. This approach is less flashy, but works well because it's fundamentally built around **your voice**.
 
-Once you generate your initial draft, enter it in your log. As you make revisions, record your thought process and any prompts that you use into the log, so you have a record of your AI interactions (and manual edits) that led up to the final draft.
+Once you generate your initial draft, enter it in your log. As you make revisions, record your thought process and any prompts that you use into the log, so you have a record of your AI interactions (and manual edits) that led up to the final draft. You don't need to log a complete draft for every revision of the paper that you make, just describe your thoughts and changes.
 
 
 You’ll need to include a list of references at the end. I recommend using APA-style citations with the (Name, Year) form.
