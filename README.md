@@ -278,7 +278,7 @@ It’s now time to turn the detailed outline you produced in Phase 3 into a full
 
 You have broad freedom to complete this phase in the way that you feel is best, including developing your own AI prompts.
 
-I do, however, have one important guideline: don’t try to create your draft by running one single prompt, and then repeatedly editing that prompt. As a general rule, it's hard to generate more than about one paragraph of text per sentence of the prompt. The more details you leave unspecified, the more the model has to fill in to generate the required amount of text, which increases the chance of hallucinations and empty writing.
+I do, however, have one important guideline: don’t try to create your draft by running one single prompt, and then repeatedly editing that prompt. As a rough rule, it's hard to generate more than about one decent paragraph of text per sentence of the prompt. The more details you leave unspecified, the more the model has to fill in to generate the required amount of text, which increases the chance of hallucinations and empty writing.
 
 Here are two techniques you may find helpful:
 
