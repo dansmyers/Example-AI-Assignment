@@ -293,7 +293,7 @@ You’ll need to include a list of references at the end. I recommend using APA-
 
 Here are some other tips:
 
-- "Make it better" is surprisingly useful for improving a draft. It prompts the model to self-evaluate and improve the draft.
+- "Make it better" is surprisingly useful for improving a draft. It prompts the model to self-evaluate and reflect on the draft content. A couple of rounds of this will often make a more elaborate and detailed (but maybe overhyped) draft that you can then smooth out and return to a neutral tone.
 
 - If the style seems too "default AI", give it a specific persona to use when writing.
 
