@@ -1,4 +1,4 @@
-# An Example AI-Assisted Writing Assignment
+# An Example AI-Assisted Research Paper Assignment
 
 <img src="https://dansmyers.github.io/airship.jpeg" width="300px" />
 
