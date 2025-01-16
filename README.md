@@ -26,7 +26,6 @@ The assignment easily generalizes to other courses, so you should feel free to m
 
 Anthropic's Claude is currently the best AI for academic work and the one that I recommend students use for brainstorming, writing, and editing. Some parts of the assignment use Microsoft's Copilot, which can search the Internet and is sometimes better for research-related tasks. ChatGPT-4o and Gemini are the other major models that may be useful, although I don't emphasize using them in my classes as much as Claude. You can encourage students to experiment (if it makes sense for your class), but I recommend giving students clear directions on what tools to use and how to prompt, at least at the beginning of the semester.
 
-There are also a number of AI/search hybrid tools, like [Perplexity](https://www.perplexity.ai/) and [Elicit](https://elicit.com/), that may be helpful for the research steps. They aren't included in this version of the assignment, but we may incorporate them in the future.
 
 ### Licensing
 
